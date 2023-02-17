@@ -365,7 +365,7 @@
     "@types/webtorrent": "^0.109.0",
     "array-move": "^2.2.1",
     "bignumber.js": "^9.0.2",
-    "core-js": "^3.9.1",
+    "core-js": "^3.27.2",
     "date-fns": "^2.15.0",
     "fuse.js": "6.6.2",
     "jszip": "^3.8.0",
